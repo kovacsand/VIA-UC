@@ -1,0 +1,3 @@
+[submodule "SDJ1"]
+	path = SDJ1
+	url = https://github.com/kovacsand/SDJ1.git
