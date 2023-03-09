@@ -1,3 +1,9 @@
 [submodule "SDJ1"]
-	path = SDJ1
+	path = SEM01/SDJ1
 	url = https://github.com/kovacsand/SDJ1.git
+[submodule "SEM01/RWD1"]
+	path = SEM01/RWD1
+	url = https://github.com/kovacsand/RWD1.git
+[submodule "SEM01/DMA1"]
+	path = SEM01/DMA1
+	url = https://github.com/kovacsand/DMA1.git
