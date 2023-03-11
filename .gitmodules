@@ -7,3 +7,9 @@
 [submodule "SEM01/DMA1"]
 	path = SEM01/DMA1
 	url = https://github.com/kovacsand/DMA1.git
+[submodule "SEM01/SEP1/SEP1"]
+	path = SEM01/SEP1/SEP1
+	url = https://github.com/kovacsand/SEP1.git
+[submodule "SEM01/SEP1/SEP1-Website"]
+	path = SEM01/SEP1/SEP1-Website
+	url = https://github.com/kovacsand/SEP1-Website.git
