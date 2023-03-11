@@ -1,15 +1,15 @@
 [submodule "SDJ1"]
-	path = SEM01/SDJ1
+	path = SEM1/SDJ1
 	url = https://github.com/kovacsand/SDJ1.git
 [submodule "SEM01/RWD1"]
-	path = SEM01/RWD1
+	path = SEM1/RWD1
 	url = https://github.com/kovacsand/RWD1.git
 [submodule "SEM01/DMA1"]
-	path = SEM01/DMA1
+	path = SEM1/DMA1
 	url = https://github.com/kovacsand/DMA1.git
 [submodule "SEM01/SEP1/SEP1"]
-	path = SEM01/SEP1/SEP1
+	path = SEM1/SEP1/SEP1
 	url = https://github.com/kovacsand/SEP1.git
 [submodule "SEM01/SEP1/SEP1-Website"]
-	path = SEM01/SEP1/SEP1-Website
+	path = SEM1/SEP1/SEP1-Website
 	url = https://github.com/kovacsand/SEP1-Website.git
