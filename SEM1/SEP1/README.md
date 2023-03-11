@@ -1,6 +1,11 @@
 ## **Semester Project: Single User System**
 
-Our task was to create a scheduling system for the Software Engineering programme. The administrator, i.e. the person planning the semester's schedule must be able to manage students, courses, teachers and sessions in a desktop application implemented in Java. The end-users, for example the students and teachers, must be able to view their schedule on a website. The class diagram can be found below.
+Our task was to create a scheduling system for the Software Engineering programme. The administrator, i.e. the person planning the semester's schedule must be able to manage students, courses, teachers and sessions in a desktop application implemented in Java. The end-users, for example the students and teachers, must be able to view their schedule on a website.
+
+<details>
+  <summary>Class diagram</summary>
+  <img src = "class-diagram.svg" alt = "Class diagram"/>
+</details>
 
 *ECTS: 10*
 
@@ -18,11 +23,6 @@ I worked together with:
   - https://github.com/kegliitis
   - https://github.com/JcullenNZ
   - https://github.com/sofiaa21  
-
-<details>
-  <summary>Class diagram</summary>
-  ![Class diagram](./class-diagram.svg)
-</details>
 
 <details>
   <summary>Course description</summary>
