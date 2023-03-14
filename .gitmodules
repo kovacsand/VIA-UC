@@ -13,3 +13,12 @@
 [submodule "SEM01/SEP1/SEP1-Website"]
 	path = SEM1/SEP1/SEP1-Website
 	url = https://github.com/kovacsand/SEP1-Website.git
+[submodule "SEM3/SEP3/SEP3-presentation-tier"]
+	path = SEM3/SEP3/SEP3-presentation-tier
+	url = https://github.com/kovacsand/SEP3-presentation-tier.git
+[submodule "SEM3/SEP3/SEP3-logic-tier"]
+	path = SEM3/SEP3/SEP3-logic-tier
+	url = https://github.com/kovacsand/SEP3-logic-tier.git
+[submodule "SEM3/SEP3/SEP3-data-tier"]
+	path = SEM3/SEP3/SEP3-data-tier
+	url = https://github.com/kovacsand/SEP3-data-tier.git
