@@ -25,3 +25,6 @@
 [submodule "SEM2/SEP2/SEP2"]
 	path = SEM2/SEP2/SEP2
 	url = https://github.com/kovacsand/SEP2.git
+[submodule "SEM2/SDJ2"]
+	path = SEM2/SDJ2
+	url = https://github.com/kovacsand/SDJ2.git
