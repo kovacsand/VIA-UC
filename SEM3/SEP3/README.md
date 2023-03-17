@@ -1,11 +1,23 @@
 ## **Semester Project: Heterogeneous Systems**
 
-Introduction TODO
+We set out to create a web application for an NGO specialising in climate action. Their purpose is to bring awareness to pollution in local areas and sustainable ways of living. They do this by collecting reports of locations in need of cleaning and later organising events to restore them. [A short video](https://www.youtube.com/watch?v=hJ48cY8RlUY) showcasing the system and its features.
+
+The system was developed using the approach of 3-tier architecture, the presentation and data tiers programmed in C# and the logic layer in Java. The communication between these layers is handled by using REST API between the presentation and business logic and by gRPC between logic and data tier. The front-end was implemented using MudBlazor. The back-end uses a PostgreSQL database, EFC, and ASP.NET Identity.  
+
+  <img src = "system-architecture-model.svg" alt = "System architecture model"/>
+
+We wanted to create a system that allows the NGO to keep track of upcoming events and volunteers to report locations in need of cleaning. Furthermore, the employees would retain control by reviewing which reports were relevant and whether the cleaning process was sufficient. From the analysis, we determined the following use cases and drew the domain model.
+
+  <img src = "domain-model-and-use-cases.png" alt = "Domain model and use cases"/>
 
 *ECTS: 10*
 
 ### What I've done
-  TODO
+  - Handling credentials using JWT in the front-end, and ASP .NET Identity on the back-end
+  - Build the Events subpages using MudBlazor, Components and asynchronous programming
+  - Build logic-tier with Maven and Spring-boot in Java running a RESTful API
+  - Managing an online PostgreSQL database using Entity Framework Core
+  - Complex queries through multiple tables using LINQ
 
 I worked together with:
   - https://github.com/apeTrackunit
